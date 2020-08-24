@@ -1,12 +1,14 @@
 
 <p align="center">
   <img src="icon_github.png" width="180" height="180">
+  <h2 align="center">Mikyan :croissant:</h2>
+  <h3 align="center">.NET Developer · Epitech Student<h3>
 </p>
 
 - 🔭 I’m currently working on TwitCasting.Net & TwitCasting.Net.Downloader
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++ & Vulkan
 
-<h2 align="center"> Languages & Tools </h2>
+<h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -20,7 +22,7 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">📈 Github Stats</h2>
 <p align="center">
     <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=Mikyan0207&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
     <image src="https://github-readme-stats-zeta-wine.vercel.app/api/top-langs/?username=Mikyan0207&hide=objective-c,makefile&layout=compact&theme=tokyonight"><br>
