@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="icon_github.png" width="180" height="180">
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/icon_github.png" width="180" height="180">
   <h2 align="center">Mikyan :croissant:</h2>
   <h3 align="center">.NET Developer · Epitech Student<h3>
 </p>
