@@ -10,16 +10,17 @@
 
 <h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/csharp_dotnet.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/js.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/html.svg"/><br>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/angular.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/mysql.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/uwp.svg"/><br>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/visualstudio.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/visualstudio_code.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/jetbrains_rider.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/jetbrains_clion.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/nuget.svg"/>
 </p>
 
 <h2 align="center">📈 Github Stats</h2>
