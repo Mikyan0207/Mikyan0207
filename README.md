@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="icon_github.png" width="180" height="180">
+</p>
+
 - 🔭 I’m currently working on TwitCasting.Net & TwitCasting.Net.Downloader
 - 🌱 I’m currently learning C#
 
