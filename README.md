@@ -16,7 +16,7 @@
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/js.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/html.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/css3.svg"/><br>
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/angular.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/angular2.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/mysql.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/uwp.svg"/><br>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/visualstudio.svg"/>
