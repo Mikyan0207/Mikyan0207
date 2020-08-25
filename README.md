@@ -11,8 +11,11 @@
 <h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/csharp_dotnet.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/cpp.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/c.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/js.svg"/>
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/html.svg"/><br>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/html.svg"/>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/css3.svg"/><br>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/angular.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/mysql.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/uwp.svg"/><br>
