@@ -37,9 +37,3 @@
       <image src="https://github-readme-stats-zeta-wine.vercel.app/api/pin/?username=Mikyan0207&repo=TwitCasting.Net&theme=tokyonight">
     </a>
 </p>
-
------
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=276kmn7dft88v1dt2ewstvey6&cover_image=true">
-</p>
