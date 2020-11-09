@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/js.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/html.svg"/>
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/css3.svg"/><br>
+  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/css3.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/angular2.svg"/>
 </p>
 <p align="center">
