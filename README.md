@@ -36,6 +36,6 @@
       <image src="https://github-readme-stats-zeta-wine.vercel.app/api/pin/?username=Mikyan0207&repo=TwitCasting.Net.Downloader&theme=tokyonight">
     </a>
     <a href="https://github.com/Mikyan0207/TwitCasting.Net">
-      <image src="https://github-readme-stats-zeta-wine.vercel.app/api/pin/?username=Mikyan0207&repo=TwitCasting.Net&theme=tokyonight">
+      <image src="https://github-readme-stats-zeta-wine.vercel.app/api/pin/?username=Mikyan0207&repo=Igalima&theme=tokyonight">
     </a>
 </p>
