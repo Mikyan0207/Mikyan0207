@@ -4,7 +4,7 @@
   <h2 align="center">Mikyan :croissant:</h2
 </p>
 
-- 🔭 I’m currently working on Igalima (Vulkan Renderer)
+- 🔭 I’m currently working on Igalima (Vulkan Renderer) & [PekoBot](https://github.com/PekoBot-Inc)
 - 🌱 I’m currently learning C++ & Vulkan
 
 <h2 align="center">⚙️ Languages & Tools</h2>
