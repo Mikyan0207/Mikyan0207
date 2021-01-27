@@ -4,8 +4,8 @@
   <h2 align="center">Mikyan :croissant:</h2
 </p>
 
-- 🔭 I’m currently working on Igalima (Vulkan Renderer) & [PekoBot](https://github.com/PekoBot-Inc)
-- 🌱 I’m currently learning C++ & Vulkan
+- 🔭 I’m currently working on Igalima (OpenGL & Vulkan Renderer) & [PekoBot](https://github.com/PekoBot-Inc)
+- 🌱 I’m currently learning OpenGL & Vulkan
 
 <h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
@@ -31,10 +31,4 @@
 <p align="center">
     <image src="https://github-readme-stats-zeta-wine.vercel.app/api?username=Mikyan0207&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true"><br>
     <image src="https://github-readme-stats-zeta-wine.vercel.app/api/top-langs/?username=Mikyan0207&hide=objective-c,makefile&layout=compact&theme=tokyonight"><br>
-    <a href="https://github.com/Mikyan0207/TwitCasting.Net.Downloader">
-      <image src="https://github-readme-stats-zeta-wine.vercel.app/api/pin/?username=Mikyan0207&repo=TwitCasting.Net.Downloader&theme=tokyonight">
-    </a>
-    <a href="https://github.com/Mikyan0207/TwitCasting.Net">
-      <image src="https://github-readme-stats-zeta-wine.vercel.app/api/pin/?username=Mikyan0207&repo=Igalima&theme=tokyonight">
-    </a>
 </p>
