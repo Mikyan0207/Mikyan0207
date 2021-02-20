@@ -4,7 +4,7 @@
   <h2 align="center">Mikyan :croissant:</h2
 </p>
 
-- 🔭 I’m currently working on Igalima ([OpenGL](https://github.com/mikyan0207/Igalima.OpenGL) & Vulkan Renderer) & [PekoBot](https://github.com/PekoBot-Inc)
+- 🔭 I’m currently working on [Igalima](https://github.com/mikyan0207/Igalima) (2D/3D Game Engine & Renderer)
 - 🌱 I’m currently learning OpenGL & Vulkan
 
 <h2 align="center">⚙️ Languages & Tools</h2>
@@ -14,17 +14,10 @@
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/c.svg"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/js.svg"/>
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/html.svg"/>
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/css3.svg"/>
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/angular2.svg"/>
-</p>
-<p align="center">
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/visualstudio.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/visualstudio_code.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/jetbrains_rider.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/jetbrains_clion.svg"/>
-  <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/nuget.svg"/>
 </p>
 
 <h2 align="center">📈 Github Stats</h2>
