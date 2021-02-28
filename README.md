@@ -4,7 +4,8 @@
   <h2 align="center">Mikyan :croissant:</h2
 </p>
 
-- 🔭 I’m currently working on [Igalima](https://github.com/mikyan0207/Igalima) (2D/3D Game Engine & Renderer)
+- ⚙️ I'm working on [yubi](https://github.com/Mikyan0207/yubi) a Tiling Window Manager for Windows 10 written in C++
+- 🔭 I’m also working on [Igalima](https://github.com/Mikyan0207/Igalima) (2D/3D Game Engine & Renderer)
 - 🌱 I’m currently learning OpenGL & Vulkan
 
 <h2 align="center">⚙️ Languages & Tools</h2>
