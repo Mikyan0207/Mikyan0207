@@ -4,7 +4,6 @@
   <h2 align="center">Mikyan :croissant:</h2
 </p>
 
-<h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/csharp_dotnet.svg"/>
   <img src="https://github.com/Mikyan0207/Mikyan0207/blob/master/images/cpp.svg"/>
