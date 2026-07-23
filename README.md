@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/icon_github.png" width="180" height="180">
+  <img src="https://avatars.githubusercontent.com/u/44970210?v=4" width="180" height="180">
   <h2 align="center">Florian Théron   —   Mikyan</h2
 </p>
 
